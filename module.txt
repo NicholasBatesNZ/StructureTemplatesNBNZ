@@ -1,0 +1,9 @@
+{
+    "id" : "StructureTemplatesNBNZ",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "StructureTemplatesNBNZ",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
