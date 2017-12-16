@@ -3,7 +3,10 @@
     "version" : "0.1.0-SNAPSHOT",
     "author" : "",
     "displayName" : "StructureTemplatesNBNZ",
-    "description" : "",
-    "dependencies" : [],
+    "description" : "A collection of my own structure templates",
+    "dependencies" : [{
+        "id" : "StructureTemplates",
+        "minVersion" : "0.2.0"
+    }],
     "serverSideOnly" : false
 }

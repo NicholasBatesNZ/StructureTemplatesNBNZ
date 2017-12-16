@@ -1,0 +1,26 @@
+{
+  "StructureTemplate": {
+  },
+  "SpawnBlockRegions": {
+    "regionsToFill": [
+      { "blockType": "Core:glass", "region": { "min": [-9, 2, 5], "size": [4, 1, 1]}},
+      { "blockType": "Core:glass", "region": { "min": [-9, 4, 5], "size": [4, 1, 1]}},
+      { "blockType": "Core:glass", "region": { "min": [-9, 6, 5], "size": [4, 1, 1]}},
+      { "blockType": "Core:glass", "region": { "min": [-4, 2, 5], "size": [4, 1, 1]}},
+      { "blockType": "Core:glass", "region": { "min": [-4, 4, 5], "size": [4, 1, 1]}},
+      { "blockType": "Core:glass", "region": { "min": [-4, 6, 5], "size": [4, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [-9, 1, 1], "size": [10, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [-9, 1, 5], "size": [10, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [-9, 3, 5], "size": [10, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [-9, 5, 5], "size": [10, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [-9, 7, 5], "size": [10, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [-5, 2, 5], "size": [1, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [-5, 4, 5], "size": [1, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [-5, 6, 5], "size": [1, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [0, 2, 5], "size": [1, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [0, 4, 5], "size": [1, 1, 1]}},
+      { "blockType": "Core:hardstone", "region": { "min": [0, 6, 5], "size": [1, 1, 1]}},
+      { "blockType": "core:lava", "region": { "min": [-9, 1, 2], "size": [10, 1, 3]}}
+    ]
+  }
+}
